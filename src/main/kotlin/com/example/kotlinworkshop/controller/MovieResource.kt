@@ -1,4 +1,4 @@
-package com.example.kotlinworkshop.web.rest
+package com.example.kotlinworkshop.controller
 
 import com.example.kotlinworkshop.dto.MovieDTO
 import com.example.kotlinworkshop.service.MovieService
